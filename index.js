@@ -1,4 +1,4 @@
-const endtime=new Date("9 Aug 2025 10:00:00").getTime();
+const endtime=new Date("10 Aug 2025 10:00:00").getTime();
 const starttime=new Date().getTime();
 let x= setInterval(function UpdateTime(){
     const now = new Date().getTime();
